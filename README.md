@@ -1,5 +1,3 @@
-from weasyprint import HTML
-
 ## 📊 UTS Big Data - Analisis Sentimen & Visualisasi
 
 * Nama   : Rama Ilham Ramadhan
